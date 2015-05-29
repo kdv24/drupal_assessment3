@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/no_subject"]
+	path = sites/all/modules/no_subject
+	url = https://github.com/kdv24/no_subject.git
