@@ -1,3 +1,6 @@
 [submodule "sites/all/modules/no_subject"]
 	path = sites/all/modules/no_subject
 	url = https://github.com/kdv24/no_subject.git
+[submodule "sites/all/modules/nameless_comment"]
+	path = sites/all/modules/nameless_comment
+	url = https://github.com/kdv24/nameless_comment.git
