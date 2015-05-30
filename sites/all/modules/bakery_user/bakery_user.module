@@ -1,10 +1,10 @@
 <?php
 // function bakery_user_menu() {
 //     $items['welcome'] = array(
-//         'title' => 'Hi There!',
+//         'title' => 'Comments',
 //         'page callback' => 'welcome_new_user'
 //         'access callback' => TRUE,
-//         'type' => MENU_CALLBACK,
+//         'type' => MENU_NORMAL_ITEM,
 //     );
 //     return $items;
 // }
