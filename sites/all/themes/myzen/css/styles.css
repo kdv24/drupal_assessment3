@@ -21,6 +21,8 @@
 /* @import "theme-A.css"; */
 /* @import "theme-B.css"; */
 
+
+/* ADD IN AFTER OTHER WORKING PARTS
 body {
   background: url('http://endlesslyenraptured.com/wp-content/uploads/2014/08/IMG_3293.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -29,8 +31,17 @@ body {
     background-size: cover;
 }
 
-#page {
+
+
+ *//* #page {
   margin-top: 50px;
+  margin-left: 5px;
+  margin-right: 5px;
   padding-top: 10px;
   background-color: rgba(255,255,255, .5);
+} */
+
+#page-title {
+/*   font-size: 1em; */
+  font-family:inherit;
 }
